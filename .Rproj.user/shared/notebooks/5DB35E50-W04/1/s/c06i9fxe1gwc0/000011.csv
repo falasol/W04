@@ -1,0 +1,1 @@
+"0","roc_auc(pred_no_norm, truth = responded, .pred_yes)"

@@ -1,0 +1,4 @@
+"0","log_base_comparison |>"
+"0","  mutate("
+"0","    ratio = log_natural / log_base10"
+"0","  )"

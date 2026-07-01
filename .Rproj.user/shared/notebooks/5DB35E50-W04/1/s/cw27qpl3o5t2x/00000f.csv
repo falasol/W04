@@ -1,0 +1,6 @@
+"0","# Extract Lasso coefficients"
+"0","mail_fit |>"
+"0","  extract_fit_parsnip() |>"
+"0","  tidy() |>"
+"0","  filter(term != ""(Intercept)"") |>"
+"0","  arrange(desc(abs(estimate)))"

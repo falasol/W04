@@ -1,0 +1,6 @@
+"0","# Convert to log(odds)"
+"0","log(p_respond / (1 - p_respond))"
+"1","[1]"
+"1"," -3.763932"
+"1","
+"

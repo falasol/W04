@@ -1,0 +1,7 @@
+"0","income_summary <- mail_data |>"
+"0","  summarise("
+"0","    median_income = median(income, na.rm = TRUE),"
+"0","    mean_income = mean(income, na.rm = TRUE)"
+"0","  )"
+"0",""
+"0","income_summary"

@@ -1,0 +1,6 @@
+"0",""
+"0","# Predictors shrunk exactly to zero"
+"0","mail_fit |>"
+"0","  extract_fit_parsnip() |>"
+"0","  tidy() |>"
+"0","  filter(term != ""(Intercept)"", estimate == 0)"

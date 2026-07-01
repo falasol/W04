@@ -1,0 +1,7 @@
+"0","# Overall response rate"
+"0","p_respond <- mean(mail_data$responded == ""yes"")"
+"0","p_respond"
+"1","[1]"
+"1"," 0.02266667"
+"1","
+"

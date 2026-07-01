@@ -1,0 +1,8 @@
+"0","tier_effects <- tier_summary |>"
+"0","  mutate("
+"0","    OR_vs_bronze = odds / bronze_odds,"
+"0","    log_OR = log(OR_vs_bronze)"
+"0","  ) |>"
+"0","  arrange(desc(abs(log_OR)))"
+"0",""
+"0","tier_effects"
