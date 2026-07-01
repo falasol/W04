@@ -1215,5 +1215,5 @@ glimpse(baked_with_id_problem)
   When `update_role(customer_id, new_role = "ID")` is removed, `customer_id` is treated as a predictor. In the baked data, it appears as a normalized numeric column instead of being protected as an ID variable. This is a problem because `customer_id` is just a unique label for each customer, not a meaningful predictor. Using it in the model can cause overfitting because the model may learn patterns tied to customer labels rather than real customer behavior.
   
 # Appendix
-Github Pages: [https://github.com/falasol/W04](https://github.com/falasol/W04)
-Github Pages: [https://falasol.github.io/W03/](https://falasol.github.io/W03/)
+Github Repo: [https://github.com/falasol/W04](https://github.com/falasol/W04)
+Github Pages: [https://falasol.github.io/W04/](https://falasol.github.io/W04/)
